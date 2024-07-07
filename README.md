@@ -1,5 +1,6 @@
 # Survey Monkey Data Analysis Project
 
+![](https://www.kustomer.com/wp-content/uploads/2018/08/SurveyMonkey_Company_Logo.jpg)
 ## Project Overview
 This project involves the analysis of survey data collected via Survey Monkey. The data was cleaned using Excel and manipulated using Python to derive insights as per the client's requirements.
 
